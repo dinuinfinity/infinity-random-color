@@ -1,0 +1,25 @@
+{
+  "name": "infinity-random-color",
+  "version": "1.0.0",
+  "description": "Generate the random color in all types",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinuinfinity/infinity-random-color.git"
+  },
+  "keywords": [
+    "Infinity",
+    "Random",
+    "Color"
+  ],
+  "author": "Dinu Infinity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinuinfinity/infinity-random-color/issues"
+  },
+  "homepage": "https://github.com/dinuinfinity/infinity-random-color#readme"
+}
